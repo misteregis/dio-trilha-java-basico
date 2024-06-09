@@ -3,5 +3,13 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "formattingToggle.affects": [
+      "editor.formatOnPaste",
+      "editor.formatOnSave",
+      "editor.formatOnType"
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true
 }
